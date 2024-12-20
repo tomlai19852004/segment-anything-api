@@ -1,0 +1,7 @@
+venv
+*.jpg
+*.png
+*.tflite
+*:Zone.Identifier
+__pycache__
+*.DS_Store
